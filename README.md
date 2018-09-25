@@ -1,2 +1,2 @@
 # hello-world
-just a test
+this is chris c. just testing ou the different aspects of git
